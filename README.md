@@ -1,6 +1,6 @@
 # Natural-Language-Processing-Project
 
-In this project, I wish to classify Yelp Reviews into 1 star or 5 star categories based off the text content in the reviews. This will be a simpler procedure than the lecture, since we will utilize the pipeline methods for more complex tasks.
+In this project, I wish to classify Yelp Reviews into 1 star or 5 star categories based off the text content in the reviews. 
 
 I used the Yelp Review Data Set from Kaggle
 Each observation in this dataset is a review of a particular business by a particular user.
